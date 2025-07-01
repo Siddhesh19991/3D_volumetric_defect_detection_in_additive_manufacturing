@@ -1,6 +1,7 @@
 # 3D Volumetric Defect Detection in Additive Manufacturing
 
 This project was completed as my master’s thesis in the [Master’s in Statistics and Machine Learning program](https://liu.se/en/education/program/f7mml) at Linköping University.  
+<br>
 This thesis was carried out in collaboration with [Interspectral](https://interspectral.com/), a company specializing in advanced data visualization solutions for the Additive Manufacturing industry. 
 
 ## Abstract
